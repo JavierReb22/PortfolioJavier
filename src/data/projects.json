@@ -9,12 +9,12 @@
     "category": "Published Website"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Proyecto Analista de datos",
+    "description": "Analisis del mercado laboral relacionado al mundo de la data incluyendo comparativas, estadisticas y tendencias relacionadas a ello.",
+    "images": ["barh.png", "CapturaDA.PNG"],
+    "tech": ["Python", "Pandas", "MatplotLib","Seaborn","Jupyter"],
+    "platforms": [],
+    "link": "https://github.com/JavierReb22/ProyectoDA",
+    "category": "Datos"
   }
 ]
