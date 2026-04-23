@@ -1,12 +1,12 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "title": "Encriptacion basica en Python",
+    "description": "Codigo de encriptacion basica en Python.",
+    "images": ["captura03.PNG"],
+    "tech": ["Python"],
+    "platforms": [],
+    "link": "https://github.com/JavierReb22/Encriptacion-Basica.git",
+    "category": "Mini-Proyecto"
   },
   {
     "title": "Proyecto Analista de datos",

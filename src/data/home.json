@@ -1,10 +1,10 @@
 {
   "name": "Javier Rebolledo Peña",
-  "photoUrl": "favicon.svg",
+  "photoUrl": "fotojav.png",
   "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
   "introHtml": "Soy un analista programador con experienca en desarrollo Fullstack, gestion de base de datos y soporte informatico. Poséo un gran interés en desenvolverme en el mundo del Desarrollo Web y en el Analisis de Datos o relacionados.",
   "webpageTitle": "Javier Rebolledo",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "resumeUrl": "https://drive.google.com/file/d/1Fbikmt3uOmkf_0FJzxTYA6Sgz3LfJHbO/view?usp=drive_link",
   "socials": [
     {
       "name": "GitHub",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "javier.rebolledo053@gmail.com",
       "icon": "mdi:email"
     },
     {

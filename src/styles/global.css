@@ -2,12 +2,12 @@
 
 @theme {
   /* Colors */
-  --color-accent: #a476ff;
-  --color-background: #1d1a3c;
-  --color-container: #24243e;
-  --color-line: #f3f3f310;
+  --color-accent: #020024;
+  --color-background: #090979;
+  --color-container: #2A7B9B;
+  --color-line: #6E6B6B;
   --color-gray: #ffffffaf;
-  --color-darkgray: rgba(255, 255, 255, 0.3);
+  --color-darkgray: #01010F;
   --color-green: #00ff41;
   
   /* Fonts */
