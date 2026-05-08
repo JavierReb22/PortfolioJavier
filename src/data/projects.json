@@ -3,18 +3,27 @@
     "title": "Encriptacion basica en Python",
     "description": "Codigo de encriptacion basica en Python.",
     "images": ["captura03.PNG"],
-    "tech": ["Python"],
+    "tech": ["Python","Visual Studio Code"],
     "platforms": [],
     "link": "https://github.com/JavierReb22/Encriptacion-Basica.git",
     "category": "Mini-Proyecto"
   },
   {
-    "title": "Proyecto Analista de datos",
+    "title": "Proyecto Analista de datos Python",
     "description": "Analisis del mercado laboral relacionado al mundo de la data incluyendo comparativas, estadisticas y tendencias relacionadas a ello.",
     "images": ["barh.png", "CapturaDA.PNG"],
-    "tech": ["Python", "Pandas", "MatplotLib","Seaborn","Jupyter"],
+    "tech": ["Python", "Pandas", "MatplotLib","Seaborn","Jupyter","Visual Studio Code"],
     "platforms": [],
     "link": "https://github.com/JavierReb22/ProyectoDA",
-    "category": "Datos"
+    "category": "Representacion grafica de datos"
+  },
+  {
+    "title": "Proyecto Analista de datos SQL",
+    "description": "Analisis del mercado laboral relacionado al mundo de la data con representacion de tablas en SQL con multiples consultas de nivel intermedio.",
+    "images": ["sql1.PNG", "sql2.PNG"],
+    "tech": ["SQL", "PostgreSQL","Visual Studio Code"],
+    "platforms": [],
+    "link": "https://github.com/JavierReb22/ProyectoSQLDA.git",
+    "category": "Consultas en SQL y creacion de tablas"
   }
 ]
